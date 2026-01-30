@@ -18,3 +18,5 @@ Este problema es una variante del problema de los caminos de Euler. Aquí, en lu
 - Algoritmo
 - Instancia de un problema
 - Clase de complejidad
+
+Estos son sólo algunos de los problemas clásicos.
