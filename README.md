@@ -21,4 +21,5 @@ Este problema es una variante del problema de los caminos de Euler. Aquí, en lu
 
 Estos son sólo algunos de los problemas clásicos. Existen muchos otros problemas, de distintas complejidades.
 Cobra una especial relevancia la notación $O(.)$, la cual define lo siguiente: una función $f(n)$ es $O(g(n))$ si existe c>0 tal que
+
 $$|f(n)|\leq c|g(n)|$$
